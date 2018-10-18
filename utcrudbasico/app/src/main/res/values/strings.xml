@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">utcrudbasico</string>
+    <string name="crear_comentario_nuevo">Crear comentario nuevo</string>
+    <string name="nombreInsertar">Nombre</string>
+    <string name="comentario">Comentario</string>
+    <string name="selecione_un_comentario">Selecione un comentario</string>
+    <string name="crear">Crear</string>
+    <string name="ver">Ver</string>
+    <string name="ver_comentario">Ver comentario</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
